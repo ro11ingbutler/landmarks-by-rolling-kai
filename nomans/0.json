@@ -1,8 +1,7 @@
 {
-    "id":0,
     "name":"No Man's Land",
     "description":"Barren, desolate, ruleless. You have arrived at No Man's Land.",
-    "image":"ipfs://QmWAqcRMPW2mK7qT745gDoiUZn6fdzrnZLbr5sXGxz4UcL/0.png",
+    "image":"https://gateway.pinata.cloud/ipfs/QmWAqcRMPW2mK7qT745gDoiUZn6fdzrnZLbr5sXGxz4UcL/0.png",
     "attributes":[
        {
           "trait_type":"Landmark",
