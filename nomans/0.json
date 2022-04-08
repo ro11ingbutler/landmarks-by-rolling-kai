@@ -1,0 +1,20 @@
+{
+    "id":0,
+    "name":"No Man's Land",
+    "description":"Barren, desolate, ruleless. You have arrived at No Man's Land.",
+    "image":"ipfs://QmWAqcRMPW2mK7qT745gDoiUZn6fdzrnZLbr5sXGxz4UcL/0.png",
+    "attributes":[
+       {
+          "trait_type":"Landmark",
+          "value":"No Man's Land"
+       },
+       {
+          "trait_type":"Extra",
+          "value":"None"
+       },
+       {
+          "trait_type":"Rarity",
+          "value":"Common"
+       },
+    ]
+ }
