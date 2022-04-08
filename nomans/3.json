@@ -1,0 +1,19 @@
+{
+    "name":"No Man's Land at Dawn",
+    "description":"Daybreak has arrived once again. For a moment, a newfound hope ignites your soul. Only for a moment.",
+    "image":"https://gateway.pinata.cloud/ipfs/QmWAqcRMPW2mK7qT745gDoiUZn6fdzrnZLbr5sXGxz4UcL/3.png",
+    "attributes":[
+       {
+          "trait_type":"Landmark",
+          "value":"No Man's Land"
+       },
+       {
+          "trait_type":"Extra",
+          "value":"Dawn"
+       },
+       {
+          "trait_type":"Rarity",
+          "value":"Rare"
+       }
+    ]
+ }
