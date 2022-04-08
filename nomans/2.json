@@ -1,0 +1,19 @@
+{
+    "name":"No Man's Land at Dusk",
+    "description":"Beautiful. How long have you been scouring these sands? It was like nightfall would never come. But here it was... happening right in front of your eyes.",
+    "image":"https://gateway.pinata.cloud/ipfs/QmWAqcRMPW2mK7qT745gDoiUZn6fdzrnZLbr5sXGxz4UcL/2.png",
+    "attributes":[
+       {
+          "trait_type":"Landmark",
+          "value":"No Man's Land"
+       },
+       {
+          "trait_type":"Extra",
+          "value":"Dusk"
+       },
+       {
+          "trait_type":"Rarity",
+          "value":"Ultra Rare"
+       }
+    ]
+ }
