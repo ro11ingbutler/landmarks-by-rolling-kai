@@ -14,6 +14,10 @@
        {
           "trait_type":"Rarity",
           "value":"Common"
+       },
+       {
+          "trait_type":"Chapter",
+          "value":"1"
        }
     ]
  }
