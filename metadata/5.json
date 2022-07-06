@@ -1,5 +1,5 @@
 {
-    "name":"Tavern General at Night",
+    "name":"Tavern General at Dusk",
     "description":"",
     "image":"https://gateway.pinata.cloud/ipfs/QmZUyhFdyEXfLF14rS3cAA5xhU8azFHAXeX6byrTut1ept/5.png",
     "attributes":[
@@ -9,7 +9,7 @@
        },
        {
           "trait_type":"Extra",
-          "value":"Night"
+          "value":"Dusk"
        },
        {
           "trait_type":"Rarity",
