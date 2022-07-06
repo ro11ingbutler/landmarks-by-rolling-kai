@@ -1,0 +1,23 @@
+{
+    "name":"Tavern General at Night",
+    "description":"",
+    "image":"https://gateway.pinata.cloud/ipfs/QmZUyhFdyEXfLF14rS3cAA5xhU8azFHAXeX6byrTut1ept/5.png",
+    "attributes":[
+       {
+          "trait_type":"Landmark",
+          "value":"Tavern General"
+       },
+       {
+          "trait_type":"Extra",
+          "value":"Night"
+       },
+       {
+          "trait_type":"Rarity",
+          "value":"Uncommon"
+       },
+       {
+          "trait_type":"Chapter",
+          "value":"1"
+       }
+    ]
+ }
